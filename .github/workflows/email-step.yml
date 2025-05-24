@@ -1,0 +1,10 @@
+name: Email Step Test
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 24f2002722@ds.study.iitm.ac.in
+        run: echo "Simple step with email in name"
