@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Site</title>
+  </head>
+  <body>
+    <h1>Welcome to My Site!</h1>
+    <p>
+      Contact: 
+      <a href="mailto:<!--email_off-->24f2002722@ds.study.iitm.ac.in<!--/email_off-->">
+        24f2002722@ds.study.iitm.ac.in
+      </a>
+    </p>
+    <p>Showcase your work here...</p>
+  </body>
+</html>
